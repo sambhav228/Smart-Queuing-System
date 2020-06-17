@@ -1,5 +1,8 @@
 # Smart-Queuing-System
 
+
+![screenshot_1](https://github.com/sambhav228/Smart-Queuing-System/blob/master/1.jpg)
+
 This is the second project in Intel® Edge AI for IoT Developers Nanodegree program, from the 3rd section of Choosing the right Hardware. It has jupyter notebooks for all the steps and scenarios which will be executed in the Intel DevCloud from udacity workspace.
 
 ## Main Tasks
